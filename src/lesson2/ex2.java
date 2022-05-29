@@ -20,3 +20,4 @@ public class ex2 {
         System.out.println("Среднее арфметическое число " + number + " чисел = " + avg);
     }
 }
+

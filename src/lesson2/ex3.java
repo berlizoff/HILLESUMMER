@@ -12,12 +12,12 @@ public class ex3 {
         procent = Double.parseDouble(scanner.nextLine());
         System.out.println("На сколько лет?");
         years = Double.parseDouble(scanner.nextLine());
-        procent = procent/100;
-        double messyacov = 12*years;
-        double nakop= money*(Math.pow((1+procent/12),messyacov));
+        procent = procent / 100;
+        double messyacov = 12 * years;
+        double nakop = money * (Math.pow((1 + procent / 12), messyacov));
         System.out.println(nakop);
-
 
 
     }
 }
+
