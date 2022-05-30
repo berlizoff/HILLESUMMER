@@ -2,7 +2,7 @@ package lesson2;
 
 import java.util.Scanner;
 
-public class ex3 {
+public class Deposit_Calculator {
     public static void main(String[] args) {
         double money, procent, years;
         Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package lesson2;
 
 import java.util.Scanner;
 
-public class ex2 {
+public class Finding_Arithmetic_Mean {
     public static void main(String[] args) {
         int sum = 0;
         double avg = 0;

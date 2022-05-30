@@ -1,7 +1,7 @@
 package lesson2;
 
 
-public class ex1 {
+public class Arithmetiс_Mean_Of_Two_Number {
     public static void main(String[] args) {
         int a = (int) (Math.random() * 10);
         int b = (int) (Math.random() * 10);
