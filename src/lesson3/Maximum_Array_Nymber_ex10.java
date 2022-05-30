@@ -2,7 +2,6 @@ package lesson3;
 
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.OptionalInt;
 import java.util.Scanner;
 
 public class Maximum_Array_Nymber_ex10 {
