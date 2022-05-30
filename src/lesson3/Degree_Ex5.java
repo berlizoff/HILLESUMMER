@@ -2,7 +2,7 @@ package lesson3;
 
 import java.util.Scanner;
 
-public class ex5 {
+public class Degree_Ex5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Vvedite chislo x");

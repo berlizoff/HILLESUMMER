@@ -2,7 +2,7 @@ package lesson3;
 
 import java.util.Scanner;
 
-public class ex2 {
+public class Factorial_Of_Number_Cycle_For_Ex2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Vvedite chislo");

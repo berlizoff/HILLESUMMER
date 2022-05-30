@@ -2,7 +2,7 @@ package lesson3;
 
 import java.util.Scanner;
 
-public class ex3 {
+public class Factorial_And_Odd_Numbers_Cycle_While_Ex3 {
     public static void main(String[] args) {
         int i = 1; //Задание №1
         while (i <= 100) {

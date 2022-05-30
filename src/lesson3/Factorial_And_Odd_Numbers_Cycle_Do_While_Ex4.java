@@ -2,7 +2,7 @@ package lesson3;
 
 import java.util.Scanner;
 
-public class ex4 {
+public class Factorial_And_Odd_Numbers_Cycle_Do_While_Ex4 {
     public static void main(String[] args) {
         int i = 1; //Задание №1
         do {

@@ -2,7 +2,7 @@ package lesson3;
 
 import java.util.Scanner;
 
-public class ex7 {
+public class Multiplicaton_Table_Ex7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Vvedite chislo ");
