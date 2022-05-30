@@ -13,9 +13,11 @@ public class ex3 {
         System.out.println("На сколько лет?");
         years = Double.parseDouble(scanner.nextLine());
         procent = procent / 100;
-        double messyacov = 12 * years;
-        double nakop = money * (Math.pow((1 + procent / 12), messyacov));
-        System.out.println(nakop);
+        double nakop = 0;
+        for (int i = 1; i <= years; i++) {
+            nakop = money * (Math.pow((1 + procent / 12), (double) 12 * i));
+            System.out.println("За " + i + " год ваша сума будет: " + nakop);
+        }
 
 
     }
